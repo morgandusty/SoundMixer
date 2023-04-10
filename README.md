@@ -1,3 +1,7 @@
+<p allign="center">
+    <img src="https://github.com/morgandusty/SoundMixer/blob/main/Soundsystem.jpg?raw=true">
+</p>
+
 # SM - V1
 
 ![Github All Releases](https://img.shields.io/github/downloads/morgandusty/SoundMixer/total?style=for-the-badge)
